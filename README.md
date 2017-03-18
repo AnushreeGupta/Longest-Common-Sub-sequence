@@ -9,13 +9,13 @@ Output: Writes output to the file \output.txt". The first line of the file is an
 indicating the length of the longest common subsequence between the two strings. The second
 line contains the longest common subsequence (which may not be unique).
 
-Sample input
+Sample input:
 
 bacdca
 
 adbcda
 
-Output for sample input
+Output for sample input:
 
 4
 
